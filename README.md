@@ -12,6 +12,6 @@ The game has questions on:
 3. States and Cities of India
 4. Art and Culture of India and many more.
 
-### If you beat the high score, do send a screen shot of the score and the message and I will add your name to the leaders board.
+### If you beat the high score, do send a screen shot of the score along with the message and I will add your name to the leaders board.
 
 ### Enjoy Playing! Cheers!
